@@ -1,6 +1,6 @@
 git clone https://github.com/Yash-rocky/ai_resume_class.git
 
-pip install streamlit re pandas
+pip install streamlit pandas
 
 cd ai_resume_class
 
